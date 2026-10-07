@@ -1,3 +1,5 @@
+# This public profile welcomes search-engine and AI crawlers.
+# The wildcard policy allows every crawler to access every public path.
 User-agent: *
 Allow: /
 
